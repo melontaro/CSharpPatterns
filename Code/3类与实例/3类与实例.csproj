@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{48BFB8BA-9A65-4A16-B6A4-1423B7931638}</ProjectGuid>
+    <ProjectGuid>{335B2125-DB91-4E73-B652-BC50AE3D31C7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Code</RootNamespace>
-    <AssemblyName>Code</AssemblyName>
+    <RootNamespace>_3类与实例</RootNamespace>
+    <AssemblyName>3类与实例</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -42,12 +42,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\2-2程序集名称空间等关系\2-2程序集名称空间等关系.csproj">
-      <Project>{05935f92-ec42-4964-aef1-b29542833ce7}</Project>
-      <Name>2-2程序集名称空间等关系</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

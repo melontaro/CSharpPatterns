@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Code
 {
-    class NameSpacedDemo
+  public  class NameSpacedDemo
     {
     }
 }
@@ -14,7 +14,7 @@ namespace NameSpace1
   public  class Women
     {
         string name;
-        int age;
+      public  int age;
 
         public string Name
         {
