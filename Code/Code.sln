@@ -11,6 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1程序集名称空间等
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3类与实例", "3类与实例\3类与实例.csproj", "{335B2125-DB91-4E73-B652-BC50AE3D31C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4构造方法", "4构造方法\4构造方法.csproj", "{4EF54C52-F3B7-4098-978C-D175D6626116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5方法重载", "5方法重载\5方法重载.csproj", "{F93A1026-5C54-4399-8A22-7E9F1FC8F60A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6属性与修饰符", "6属性与修饰符\6属性与修饰符.csproj", "{0512A770-3AA6-4C0C-AC87-C0A1F071F2C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7封装", "7封装\7封装.csproj", "{E7C70E19-1C52-4883-BD03-F020E03BE7C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +41,22 @@ Global
 		{335B2125-DB91-4E73-B652-BC50AE3D31C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{335B2125-DB91-4E73-B652-BC50AE3D31C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{335B2125-DB91-4E73-B652-BC50AE3D31C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF54C52-F3B7-4098-978C-D175D6626116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF54C52-F3B7-4098-978C-D175D6626116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF54C52-F3B7-4098-978C-D175D6626116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF54C52-F3B7-4098-978C-D175D6626116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93A1026-5C54-4399-8A22-7E9F1FC8F60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93A1026-5C54-4399-8A22-7E9F1FC8F60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93A1026-5C54-4399-8A22-7E9F1FC8F60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93A1026-5C54-4399-8A22-7E9F1FC8F60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0512A770-3AA6-4C0C-AC87-C0A1F071F2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0512A770-3AA6-4C0C-AC87-C0A1F071F2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0512A770-3AA6-4C0C-AC87-C0A1F071F2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0512A770-3AA6-4C0C-AC87-C0A1F071F2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C70E19-1C52-4883-BD03-F020E03BE7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C70E19-1C52-4883-BD03-F020E03BE7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C70E19-1C52-4883-BD03-F020E03BE7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C70E19-1C52-4883-BD03-F020E03BE7C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
