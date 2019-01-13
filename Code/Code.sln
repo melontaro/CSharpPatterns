@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11抽象类", "11抽象类\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12接口", "12接口\12接口.csproj", "{8B3F3BD7-0881-4F4D-BA62-1B2CBFA21B9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13集合", "13集合\13集合.csproj", "{D7B75D67-7497-45AB-A775-48E159E87A15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{8B3F3BD7-0881-4F4D-BA62-1B2CBFA21B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B3F3BD7-0881-4F4D-BA62-1B2CBFA21B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B3F3BD7-0881-4F4D-BA62-1B2CBFA21B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B75D67-7497-45AB-A775-48E159E87A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B75D67-7497-45AB-A775-48E159E87A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B75D67-7497-45AB-A775-48E159E87A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B75D67-7497-45AB-A775-48E159E87A15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
