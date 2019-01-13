@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9多态", "9多态\9多态.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10重构", "10重构\10重构.csproj", "{FB9A8B8F-4DF9-4C7D-B941-F4E90421A3F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11抽象类", "11抽象类\11抽象类.csproj", "{697BFC11-7A64-4669-8330-2E1F1A46107B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12接口", "12接口\12接口.csproj", "{8B3F3BD7-0881-4F4D-BA62-1B2CBFA21B9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{FB9A8B8F-4DF9-4C7D-B941-F4E90421A3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB9A8B8F-4DF9-4C7D-B941-F4E90421A3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB9A8B8F-4DF9-4C7D-B941-F4E90421A3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697BFC11-7A64-4669-8330-2E1F1A46107B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697BFC11-7A64-4669-8330-2E1F1A46107B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697BFC11-7A64-4669-8330-2E1F1A46107B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697BFC11-7A64-4669-8330-2E1F1A46107B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3F3BD7-0881-4F4D-BA62-1B2CBFA21B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3F3BD7-0881-4F4D-BA62-1B2CBFA21B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3F3BD7-0881-4F4D-BA62-1B2CBFA21B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3F3BD7-0881-4F4D-BA62-1B2CBFA21B9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
